@@ -1,4 +1,4 @@
-# "Exploratory Data Analysis (EDA) and Visualization of Students Performance in Exams"
+# Exploratory Data Analysis (EDA) and Visualization of "Students Performance in Exams" Dataset
 
 ## Description:
 This GitHub repository contains an analysis of the "Students Performance in Exams" dataset. 
